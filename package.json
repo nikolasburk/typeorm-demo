@@ -6,7 +6,7 @@
     "@types/node": "^12.7.5",
     "pg": "^7.12.1",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.19"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "ts-node": "^8.4.1",
